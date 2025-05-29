@@ -1,0 +1,137 @@
+@font-face {
+  font-family: 'EuclidTriangle';
+  src: url('fonts/EuclidTriangle-Light.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'EuclidTriangle';
+  src: url('fonts/EuclidTriangle-Regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'EuclidTriangle';
+  src: url('fonts/EuclidTriangle-Medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'EuclidTriangle';
+  src: url('fonts/EuclidTriangle-Semibold.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'EuclidTriangle';
+  src: url('fonts/EuclidTriangle-Bold.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+}
+
+body {
+  font-family: 'EuclidTriangle', sans-serif;
+  font-weight: 400;
+  margin: 0;
+  padding: 0;
+  background-color: #121212;
+  color: #f5f5f5;
+}
+
+h1 {
+  font-weight: 700;
+}
+
+h2 {
+  font-weight: 600;
+}
+
+h3 {
+  font-weight: 500;
+}
+
+p.light {
+  font-weight: 300;
+}
+
+label,
+option {
+  font-family: 'EuclidTriangle', sans-serif;
+  font-weight: 400;
+}
+
+select {
+  font-family: 'EuclidTriangle', sans-serif;
+  font-weight: 500;
+}
+
+button {
+  font-family: 'EuclidTriangle', sans-serif;
+  font-weight: 700;
+}
+
+/* Hlavní rozvržení */
+.main-layout {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 40px;
+  padding: 60px 40px;
+  margin: 0 auto;
+  max-width: 1200px;
+  box-sizing: border-box;
+  align-items: center; /* vertikální zarovnání */
+}
+
+/* Levý sloupec obalený wrapperem pro centrování */
+.left-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100%;
+}
+
+/* Boxy */
+.generator-box {
+  background-color: #1e1e1e;
+  padding: 40px;
+  border-radius: 16px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4);
+  color: #f5f5f5;
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 100%;
+  min-height: 600px; /* pevná výška pro oba boxy */
+}
+
+.film-output-box {
+  background-color: #1e1e1e;
+  padding: 40px;
+  border-radius: 16px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4);
+  color: #f5f5f5;
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 100%;
+  min-height: 250px; /* pevná výška pro oba boxy */
+}
+
+/* Nadpis v levém boxu */
+.generator-box h1 {
+  font-size: 1.8rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* Výstupní obrázek */
+.film-output-box img {
+  width: 100%;
+  height: 400px; /* pevná výška obrázku */
+  object-fit: cover;
+  border-radius: 12px;
+  margin-top: 1.5rem;
+}

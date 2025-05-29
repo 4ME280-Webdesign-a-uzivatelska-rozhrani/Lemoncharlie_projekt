@@ -1,0 +1,562 @@
+[
+  {
+    "nazev": "Interstellar",
+    "rok": 2014,
+    "zanr": "sci-fi",
+    "zpracovani": "kvalitni",
+    "obrazek": "https://mir-s3-cdn-cf.behance.net/project_modules/hd/8d8f28105415493.619ded067937d.jpg",
+    "reziser": "Christopher Nolan"
+  },
+  {
+    "nazev": "Se7en",
+    "rok": 1995,
+    "zanr": "krimi",
+    "zpracovani": "kvalitni",
+    "obrazek": "https://i.pinimg.com/736x/89/c4/3d/89c43dc6134a289040d68684ccff81ac.jpg",
+    "reziser": "David Fincher"
+  },
+  {
+    "nazev": "Pulp Fiction",
+    "rok": 1994,
+    "zanr": "krimi",
+    "zpracovani": "kvalitni",
+    "obrazek": "https://i.pinimg.com/736x/e4/05/0b/e4050b92335cde4a3b5ae340fc8c5ee3.jpg",
+    "reziser": "Quentin Tarantino"
+  },
+  {
+    "nazev": "The Matrix",
+    "rok": 1999,
+    "zanr": "akcni",
+    "zpracovani": "kvalitni",
+    "obrazek": "https://i.pinimg.com/736x/62/f2/41/62f241fd34d94f303a71df7fc7274fbb.jpg",
+    "reziser": "Lana Wachowski, Lilly Wachowski"
+  },
+  {
+    "nazev": "Ford v Ferrari",
+    "rok": 2019,
+    "zanr": "akcni",
+    "zpracovani": "kvalitni",
+    "obrazek": "https://i.pinimg.com/736x/d6/33/57/d6335729e7fb0726bb4004a27658dab1.jpg",
+    "reziser": "James Mangold"
+  },
+  {
+    "nazev": "Rush",
+    "rok": 2013,
+    "zanr": "akcni",
+    "zpracovani": "kvalitni",
+    "obrazek": "https://i.pinimg.com/736x/a7/30/88/a73088250784fba3c577f6dc3d06abef.jpg",
+    "reziser": "Ron Howard"
+  },
+  {
+    "nazev": "Star Wars: Episode I – The Phantom Menace",
+    "rok": 1999,
+    "zanr": "sci-fi",
+    "zpracovani": "kvalitni",
+    "obrazek": "https://i.pinimg.com/736x/1a/27/da/1a27da3be34b8986f26e1e6f1df0d43f.jpg",
+    "reziser": "George Lucas"
+  },
+  {
+    "nazev": "Inception",
+    "rok": 2010,
+    "zanr": "sci-fi",
+    "zpracovani": "kvalitni",
+    "obrazek": "https://i.pinimg.com/736x/7c/22/18/7c221896796b9c3bc1f462f68957402d.jpg",
+    "reziser": "Christopher Nolan"
+  },
+  {
+    "nazev": "Django Unchained",
+    "rok": 2012,
+    "zanr": "akcni",
+    "zpracovani": "kvalitni",
+    "obrazek": "https://i.pinimg.com/736x/c1/41/bb/c141bb9f203fd5b14259f4b3fa9ea8bb.jpg",
+    "reziser": "Quentin Tarantino"
+  },
+  {
+    "nazev": "Shutter Island",
+    "rok": 2010,
+    "zanr": "thriller",
+    "zpracovani": "kvalitni",
+    "obrazek": "https://i.pinimg.com/736x/be/42/79/be42798ae9f2053ce10dd4e4a33d091f.jpg",
+    "reziser": "Martin Scorsese"
+  },
+  {
+    "nazev": "Fight Club",
+    "rok": 1999,
+    "zanr": "akcni",
+    "zpracovani": "kvalitni",
+    "obrazek": "https://i.pinimg.com/736x/5d/23/e8/5d23e8cea42ba4a5513f6ab32f0b40c7.jpg",
+    "reziser": "David Fincher"
+  },
+  {
+    "nazev": "Requiem for a Dream",
+    "rok": 2000,
+    "zanr": "drama",
+    "zpracovani": "kvalitni",
+    "obrazek": "https://i.pinimg.com/736x/53/61/d6/5361d60ee16bdbe0b81df194d8c58987.jpg",
+    "reziser": "Darren Aronofsky"
+  },
+  {
+    "nazev": "Snatch",
+    "rok": 2000,
+    "zanr": "komedie",
+    "zpracovani": "kvalitni",
+    "obrazek": "https://i.pinimg.com/736x/ee/a3/2e/eea32e703aff5c75b1f27ae2d836ffa0.jpg",
+    "reziser": "Guy Ritchie"
+  },
+  {
+    "nazev": "Spider-Man: Into the Spider-Verse",
+    "rok": 2018,
+    "zanr": "akcni",
+    "zpracovani": "kvalitni",
+    "obrazek": "https://i.pinimg.com/736x/47/65/09/4765091a84c17201a7b9c7ebc7a9ba25.jpg",
+    "reziser": "Bob Persichetti"
+  },
+  {
+    "nazev": "Catch Me If You Can",
+    "rok": 2002,
+    "zanr": "krimi",
+    "zpracovani": "kvalitni",
+    "obrazek": "https://i.pinimg.com/736x/ef/08/7e/ef087e9a03aa21dc80764f1051d26ca5.jpg",
+    "reziser": "Steven Spielberg"
+  },
+  {
+    "nazev": "Trainspotting",
+    "rok": 1996,
+    "zanr": "krimi",
+    "zpracovani": "kvalitni",
+    "obrazek": "https://i.pinimg.com/736x/38/08/33/3808332835d8db0ef71685e06feae4f7.jpg",
+    "reziser": "Danny Boyle"
+  },
+  {
+    "nazev": "Inglourious Basterds",
+    "rok": 2009,
+    "zanr": "akcni",
+    "zpracovani": "kvalitni",
+    "obrazek": "https://i.pinimg.com/736x/c5/38/d1/c538d16371bb73502f34bcd5d26ac44b.jpg",
+    "reziser": "Quentin Tarantino"
+  },
+  {
+    "nazev": "The Truman Show",
+    "rok": 1998,
+    "zanr": "komedie",
+    "zpracovani": "kvalitni",
+    "obrazek": "https://i.pinimg.com/736x/0d/20/3c/0d203caaf2580e19ee125cb464adf2ff.jpg",
+    "reziser": "Peter Weir"
+  },
+  {
+    "nazev": "Top Gun: Maverick",
+    "rok": 2022,
+    "zanr": "akcni",
+    "zpracovani": "kvalitni",
+    "obrazek": "https://i.pinimg.com/736x/58/07/63/5807635ca265fc931a60f3843522ae55.jpg",
+    "reziser": "Joseph Kosinski"
+  },
+  {
+    "nazev": "Edge of Tomorrow",
+    "rok": 2014,
+    "zanr": "sci-fi",
+    "zpracovani": "normalni",
+    "obrazek": "https://i.pinimg.com/736x/df/87/4e/df874e5f4342a75da876abf81355fa24.jpg",
+    "reziser": "Doug Liman"
+  },
+  {
+    "nazev": "How to Train Your Dragon",
+    "rok": 2010,
+    "zanr": "akcni",
+    "zpracovani": "normalni",
+    "obrazek": "https://i.pinimg.com/736x/0e/1b/c4/0e1bc4ddab50f275d155cfbc12bde215.jpg",
+    "reziser": "Tom Owens"
+  },
+  {
+    "nazev": "Vlny",
+    "rok": 2024,
+    "zanr": "thriller",
+    "zpracovani": "kvalitni",
+    "obrazek": "https://i.pinimg.com/736x/6d/d0/27/6dd027d5db7b875f41405e7a0c45944a.jpg",
+    "reziser": "Jiří Mádl"
+  },
+  {
+    "nazev": "Joker",
+    "rok": 2019,
+    "zanr": "thriller",
+    "zpracovani": "kvalitni",
+    "obrazek": "https://i.pinimg.com/736x/20/24/61/202461561d47628c08c9f91e76d3d7c0.jpg",
+    "reziser": "Todd Phillips"
+  },
+  {
+    "nazev": "Parasite",
+    "rok": 2019,
+    "zanr": "thriller",
+    "zpracovani": "kvalitni",
+    "obrazek": "https://i.pinimg.com/736x/bc/e3/c2/bce3c2cbd502d88d137200ee7d928f09.jpg",
+    "reziser": "Dzun-ho Pong"
+  },
+  {
+    "nazev": "The Wolf of Wall Street",
+    "rok": 2013,
+    "zanr": "komedie",
+    "zpracovani": "kvalitni",
+    "obrazek": "https://i.pinimg.com/736x/e8/eb/0d/e8eb0d27d7dc341eaf6a566238ae17c5.jpg",
+    "reziser": "Martin Scorsese"
+  },
+  {
+    "nazev": "The Martian",
+    "rok": 2015,
+    "zanr": "sci-fi",
+    "zpracovani": "kvalitni",
+    "obrazek": "https://i.pinimg.com/736x/cb/5d/9c/cb5d9c4fa22db1ff9399f84ee7ee1408.jpg",
+    "reziser": "Ridley Scott"
+  },
+  {
+    "nazev": "Oppenheimer",
+    "rok": 2023,
+    "zanr": "thriller",
+    "zpracovani": "kvalitni",
+    "obrazek": "https://i.pinimg.com/736x/77/9d/a3/779da30964fb69b47c4f03138d482f9d.jpg",
+    "reziser": "Christopher Nolan"
+  },
+  {
+    "nazev": "Avatar",
+    "rok": 2009,
+    "zanr": "sci-fi",
+    "zpracovani": "kvalitni",
+    "obrazek": "https://i.pinimg.com/736x/30/40/10/304010f409cc50741e89a94f5cbf577f.jpg",
+    "reziser": "James Cameron"
+  },
+  {
+    "nazev": "Cars",
+    "rok": 2006,
+    "zanr": "komedie",
+    "zpracovani": "normalni",
+    "obrazek": "https://i.pinimg.com/736x/0f/5b/fa/0f5bfacda6921a51234cd48f3606d45f.jpg",
+    "reziser": "John Lasseter"
+  },
+  {
+    "nazev": "Ocean's Eleven",
+    "rok": 2001,
+    "zanr": "krimi",
+    "zpracovani": "kvalitni",
+    "obrazek": "https://i.pinimg.com/736x/1a/ef/b4/1aefb4bfd7063a34361aebf8b2779337.jpg",
+    "reziser": "Steven Sodebergh"
+  },
+  {
+    "nazev": "Guardians of the Galaxy",
+    "rok": 2014,
+    "zanr": "akcni",
+    "zpracovani": "normalni",
+    "obrazek": "https://i.pinimg.com/736x/75/61/1e/75611e5af80555b402551295937cf23c.jpg",
+    "reziser": "James Gunn"
+  },
+  {
+    "nazev": "The Imitation Game",
+    "rok": 2014,
+    "zanr": "thriller",
+    "zpracovani": "kvalitni",
+    "obrazek": "https://i.pinimg.com/736x/00/fc/05/00fc05cbb4209e120ac4c537d6a869ef.jpg",
+    "reziser": "Morten Tyldum"
+  },
+  {
+    "nazev": "I, Robot",
+    "rok": 2004,
+    "zanr": "sci-fi",
+    "zpracovani": "normalni",
+    "obrazek": "https://i.pinimg.com/736x/69/70/f6/6970f656e35ad969ddbe4c8a60cc9033.jpg",
+    "reziser": "Alex Proyas"
+  },
+  {
+    "nazev": "The Hateful Eight",
+    "rok": 2015,
+    "zanr": "thriller",
+    "zpracovani": "kvalitni",
+    "obrazek": "https://i.pinimg.com/736x/21/c7/ca/21c7ca152312ad852e304c34a03bb75c.jpg",
+    "reziser": "Quentin Tarantino"
+  },
+  {
+    "nazev": "Valkyrie",
+    "rok": 2008,
+    "zanr": "thriller",
+    "zpracovani": "normalni",
+    "obrazek": "https://i.pinimg.com/736x/db/88/24/db8824878921d6e1d1599cf973c38655.jpg",
+    "reziser": "Bryan Singer"
+  },
+  {
+    "nazev": "Dune",
+    "rok": 2021,
+    "zanr": "sci-fi",
+    "zpracovani": "kvalitni",
+    "obrazek": "https://i.pinimg.com/736x/2a/b5/14/2ab51409bf2df8b4b42078cb31ff9e1f.jpg",
+    "reziser": "Denis Villeneuve"
+  },
+  {
+    "nazev": "Kingsman: The Secret Service",
+    "rok": 2014,
+    "zanr": "akcni",
+    "zpracovani": "normalni",
+    "obrazek": "https://i.pinimg.com/736x/97/03/5d/97035d29b6c7d30b42b8dde211784ead.jpg",
+    "reziser": "Matthew Vaughn"
+  },
+  {
+    "nazev": "Saturnin",
+    "rok": 1994,
+    "zanr": "komedie",
+    "zpracovani": "normalni",
+    "obrazek": "https://images.justwatch.com/poster/163752369/s718/saturnin.jpg",
+    "reziser": "Jiří Věrčák"
+  },
+  {
+    "nazev": "Deadpool",
+    "rok": 2016,
+    "zanr": "akcni",
+    "zpracovani": "normalni",
+    "obrazek": "https://i.pinimg.com/736x/69/66/87/69668756a24d07355f402f7a3d53fc58.jpg",
+    "reziser": "Tim Miller"
+  },
+  {
+    "nazev": "Scott Pilgrim vs. the World",
+    "rok": 2010,
+    "zanr": "akcni",
+    "zpracovani": "normalni",
+    "obrazek": "https://i.pinimg.com/736x/cb/c8/93/cbc89390f5642d3c7c6fc6896fdbac0b.jpg",
+    "reziser": "Edgar Wright"
+  },
+  {
+    "nazev": "Kill Bill",
+    "rok": 2003,
+    "zanr": "akcni",
+    "zpracovani": "kvalitni",
+    "obrazek": "https://i.pinimg.com/736x/9e/5b/32/9e5b32e07d2cf37d837b11e1a68bcfde.jpg",
+    "reziser": "Quentin Tarantino"
+  },
+  {
+    "nazev": "The Great Gatsby",
+    "rok": 2013,
+    "zanr": "drama",
+    "zpracovani": "normalni",
+    "obrazek": "https://i.pinimg.com/736x/e2/ae/0a/e2ae0a265111b52f323710fe156ca6d2.jpg",
+    "reziser": "Baz Luhrmann"
+  },
+  {
+    "nazev": "The Basketball Diaries",
+    "rok": 1995,
+    "zanr": "thriller",
+    "zpracovani": "kvalitni",
+    "obrazek": "https://i.pinimg.com/736x/09/0f/7b/090f7b7e83d8a90b4d75b7a9036f4d4f.jpg",
+    "reziser": "Scott Kalvert"
+  },
+  {
+    "nazev": "Fury",
+    "rok": 2014,
+    "zanr": "akcni",
+    "zpracovani": "kvalitni",
+    "obrazek": "https://i.pinimg.com/736x/8f/15/2e/8f152e20721436f969ffd7e2bf20c102.jpg",
+    "reziser": "David Ayer"
+  },
+  {
+    "nazev": "Borat",
+    "rok": 2006,
+    "zanr": "komedie",
+    "zpracovani": "kravina",
+    "obrazek": "https://i.pinimg.com/736x/af/09/95/af0995cc129aaae7267e3a623bde3e90.jpg",
+    "reziser": "Larry Charles"
+  },
+  {
+    "nazev": "Kick-Ass",
+    "rok": 2010,
+    "zanr": "akcni",
+    "zpracovani": "normalni",
+    "obrazek": "https://i.pinimg.com/736x/b6/ac/1a/b6ac1a362add424a0c1ea0e9363d2335.jpg",
+    "reziser": "Matthew Vaughn"
+  },
+  {
+    "nazev": "Superhero Movie",
+    "rok": 2010,
+    "zanr": "komedie",
+    "zpracovani": "kravina",
+    "obrazek": "https://i.pinimg.com/736x/47/d9/51/47d951e1a936878550ba1b6e101048ab.jpg",
+    "reziser": "Craig Mazin"
+  },
+  {
+    "nazev": "Scary Movie",
+    "rok": 2000,
+    "zanr": "komedie",
+    "zpracovani": "kravina",
+    "obrazek": "https://i.pinimg.com/736x/1b/d5/9f/1bd59fa00cbec9e5ef3dd8d4cd4adcd9.jpg",
+    "reziser": "Keenen Ivory Wayans"
+  },
+  {
+    "nazev": "A Haunted House",
+    "rok": 2013,
+    "zanr": "komedie",
+    "zpracovani": "kravina",
+    "obrazek": "https://i.pinimg.com/736x/a1/58/59/a158597978895e53d00fdec0d703d638.jpg",
+    "reziser": "Michael Tiddes"
+  },
+  {
+    "nazev": "Kneecap",
+    "rok": 2024,
+    "zanr": "komedie",
+    "zpracovani": "kvalitni",
+    "obrazek": "https://i.pinimg.com/736x/cc/7b/7d/cc7b7dbdbe77074c3e075ecc456e68ff.jpg",
+    "reziser": "Rich Peppiatt"
+  },
+  {
+    "nazev": "Superbad",
+    "rok": 2007,
+    "zanr": "komedie",
+    "zpracovani": "normalni",
+    "obrazek": "https://i.pinimg.com/736x/e0/b1/aa/e0b1aa997ca33a27f24616e46fe94256.jpg",
+    "reziser": "Greg Mottola"
+  },
+  {
+    "nazev": "Taxi",
+    "rok": 1998,
+    "zanr": "komedie",
+    "zpracovani": "kravina",
+    "obrazek": "https://i.pinimg.com/736x/ce/7b/88/ce7b88fbda49a39be401f791be380ecb.jpg",
+    "reziser": "Gérard Krawczyk"
+  },
+  {
+    "nazev": "The Platform",
+    "rok": 2019,
+    "zanr": "thriller",
+    "zpracovani": "normalni",
+    "obrazek": "https://i.pinimg.com/736x/bb/06/83/bb0683bca41055875a456851f6d99422.jpg",
+    "reziser": "Galder Gaztelu-Urrutia"
+  },
+  {
+    "nazev": "The Gorge",
+    "rok": 2025,
+    "zanr": "akcni",
+    "zpracovani": "normalni",
+    "obrazek": "https://i.pinimg.com/736x/5d/1a/15/5d1a15b98d62ac15e177e77c5b83d5ac.jpg",
+    "reziser": "Scott Derrickson"
+  },
+  {
+    "nazev": "The Maze Runner",
+    "rok": 2014,
+    "zanr": "sci-fi",
+    "zpracovani": "normalni",
+    "obrazek": "https://i.pinimg.com/736x/a8/70/a2/a870a290848391d483b756ced82526ed.jpg",
+    "reziser": "Wes Ball"
+  },
+  {
+    "nazev": "The Hunger Games",
+    "rok": 2012,
+    "zanr": "sci-fi",
+    "zpracovani": "kvalitni",
+    "obrazek": "https://i.pinimg.com/736x/c9/7f/e8/c97fe84f82b8e4f66616cdf5145a02b6.jpg",
+    "reziser": "Gary Ross"
+  },
+  {
+    "nazev": "Divergent",
+    "rok": 2014,
+    "zanr": "sci-fi",
+    "zpracovani": "normalni",
+    "obrazek": "https://i.pinimg.com/736x/59/cc/21/59cc2123d71f313a47d38de6b8833d84.jpg",
+    "reziser": "Neil Burger"
+  },
+  {
+    "nazev": "Midsommar",
+    "rok": 2019,
+    "zanr": "drama",
+    "zpracovani": "kvalitni",
+    "obrazek": "https://i.pinimg.com/736x/65/25/eb/6525eb937e4cc783ea5765122af4348b.jpg",
+    "reziser": "Ari Aster"
+  },
+  {
+    "nazev": "Gran Turismo",
+    "rok": 2023,
+    "zanr": "akcni",
+    "zpracovani": "normalni",
+    "obrazek": "https://i.pinimg.com/736x/25/6c/9d/256c9d0df4e24cb4f35271835b0fe418.jpg",
+    "reziser": "Neill Blomkamp"
+  },
+  {
+    "nazev": "Ready Player One",
+    "rok": 2018,
+    "zanr": "sci-fi",
+    "zpracovani": "normalni",
+    "obrazek": "https://i.pinimg.com/736x/da/0c/e7/da0ce75028f4e6c5fcc355f08a381e84.jpg",
+    "reziser": "Steven Spielberg"
+  },
+  {
+    "nazev": "Fast & Furious",
+    "rok": 2001,
+    "zanr": "akcni",
+    "zpracovani": "normalni",
+    "obrazek": "https://i.pinimg.com/736x/3e/c6/f9/3ec6f9aa0f0780fb467b5d551d37c95d.jpg",
+    "reziser": "Rob Cohen"
+  },
+  {
+    "nazev": "Twilight",
+    "rok": 2008,
+    "zanr": "drama",
+    "zpracovani": "kravina",
+    "obrazek": "https://i.pinimg.com/736x/d6/75/ae/d675ae0fc4c35c4243300939906aaff3.jpg",
+    "reziser": "Catherine Hardwicke"
+  },
+  {
+    "nazev": "Anthropoid",
+    "rok": 2016,
+    "zanr": "thriller",
+    "zpracovani": "kvalitni",
+    "obrazek": "https://i.pinimg.com/736x/52/1d/c5/521dc587eda8f387b02525af092c627e.jpg",
+    "reziser": "Sean Ellis"
+  },
+  {
+    "nazev": "Party Hard",
+    "rok": 2019,
+    "zanr": "komedie",
+    "zpracovani": "kravina",
+    "obrazek": "https://image.pmgstatic.com/cache/resized/w420/files/images/film/posters/163/666/163666544_84aa02.jpg",
+    "reziser": "Marty Pohl"
+  },
+  {
+    "nazev": "Venom",
+    "rok": 2018,
+    "zanr": "akcni",
+    "zpracovani": "normalni",
+    "obrazek": "https://i.pinimg.com/736x/33/72/bb/3372bb47a5dec6b007829e15a1d72695.jpg",
+    "reziser": "Ruben Fleischer"
+  },
+  {
+    "nazev": "Meet the Spartans",
+    "rok": 2008,
+    "zanr": "komedie",
+    "zpracovani": "kravina",
+    "obrazek": "https://i.pinimg.com/736x/6b/9c/0a/6b9c0ab6b743bded306b71eb303f6887.jpg",
+    "reziser": "Jason Friedberg"
+  },
+  {
+    "nazev": "Tenet",
+    "rok": 2020,
+    "zanr": "sci-fi",
+    "zpracovani": "kvalitni",
+    "obrazek": "https://i.pinimg.com/736x/26/27/ac/2627ac6f05d9f6812cae5c5954e54e96.jpg",
+    "reziser": "Christopher Nolan"
+  },
+  {
+    "nazev": "American Psycho",
+    "rok": 2000,
+    "zanr": "drama",
+    "zpracovani": "kvalitni",
+    "obrazek": "https://i.pinimg.com/736x/2b/bc/bb/2bbcbbf40d86367fd2290329042431dc.jpg",
+    "reziser": "Mary Harron"
+  },
+  {
+    "nazev": "Vlčí bouda",
+    "rok": 1987,
+    "zanr": "drama",
+    "zpracovani": "kravina",
+    "obrazek": "https://image.pmgstatic.com/cache/resized/w420/files/images/film/posters/000/001/1457_b4aa84.jpg",
+    "reziser": "Věra Chytilová"
+  },
+  {
+    "nazev": "Mandragora",
+    "rok": 1997,
+    "zanr": "drama",
+    "zpracovani": "normalni",
+    "obrazek": "https://image.pmgstatic.com/cache/resized/w420/files/images/film/posters/159/448/159448691_ba2df8.jpg",
+    "reziser": "Wiktor Grodecki"
+  }
+]
